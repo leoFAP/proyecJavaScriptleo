@@ -1,0 +1,9 @@
+.borde-negro{
+
+    border:solid 1px black;
+    width: 50%;
+margin: 15px;
+color: white;
+background-color: blueviolet;    
+    
+    }
